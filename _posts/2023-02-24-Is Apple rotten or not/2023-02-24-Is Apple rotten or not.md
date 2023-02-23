@@ -75,7 +75,7 @@ im.to_thumb(256,256)
 
 
     
-![png](blog1_files/blog1_8_0.png)
+![png](blog_files/blog1_8_0.png)
     
 
 
@@ -93,7 +93,7 @@ Image.open('rotten.jpg').to_thumb(256,256)
 
 
     
-![png](blog1_files/blog1_9_1.png)
+![png](blog_files/blog1_9_1.png)
     
 
 
@@ -154,7 +154,7 @@ dls.show_batch(max_n=6)
 
 
     
-![png](blog1_files/blog1_16_0.png)
+![png](blog_files/blog1_16_0.png)
     
 
 
