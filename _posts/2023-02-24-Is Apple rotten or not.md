@@ -75,7 +75,7 @@ im.to_thumb(256,256)
 
 
     
-![png](blog_files/blog1_8_0.png)
+![png](https://user-images.githubusercontent.com/67200542/221076728-cf1bd673-7a39-477c-881e-7cc27e9bbfd1.png)
     
 
 
@@ -93,7 +93,7 @@ Image.open('rotten.jpg').to_thumb(256,256)
 
 
     
-![png](blog_files/blog1_9_1.png)
+![png](https://user-images.githubusercontent.com/67200542/221076721-251880bb-6c0c-47be-97c1-83aba6a4c969.png)
     
 
 
@@ -154,7 +154,7 @@ dls.show_batch(max_n=6)
 
 
     
-![png](blog_files/blog1_16_0.png)
+![png](https://user-images.githubusercontent.com/67200542/221076713-9d434254-2b3a-45c3-868a-805b6e0bb3e0.png)
     
 
 
