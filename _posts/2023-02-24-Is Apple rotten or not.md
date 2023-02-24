@@ -1,8 +1,6 @@
 ---
 title: Is Apple rotten or not?
 date: 2023-02-24 00:29:50 +0530
-categories: [Fruits, Apple]
-tags: [machine learning, deep learning ,fastai,]     # TAG names should always be lowercase
 ---
 
 # Is Apple rotten or not?
