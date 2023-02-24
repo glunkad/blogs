@@ -3,7 +3,8 @@ title: Is Apple rotten or not?
 date: 2023-02-24 00:29:50 +0530
 ---
 
-# Is Apple rotten or not?
+# Is Apple rotten or not? 
+Inspired by lesson 1 of Practical Deep Learning for Coders. In this project, we will be exploring the fascinating world of deep learning to identify and classify rotten apples. By leveraging the power of fastai library, we will create a simple model that can accurately distinguish between healthy and decayed apples. So, let's get started and unravel the mysteries of deep learning!
 
 The basic steps we'll take are:
 1. Use DuckDuckGo to search for images of "apple fruit photos"
@@ -313,5 +314,16 @@ print(f"Probability it's a fresh apple: {probs[0]:.4f}")
     Probability it's a fresh apple: 0.9997
 
 
+## Future scope and development. Here are a few possibilities:
+
+1. Expansion to other fruits: The current project focuses on detecting the ripeness of apples. However, this technology can be expanded to other fruits as well. With additional training, the model could detect the freshness and ripeness of different types of fruits.
+
+2. Real-time detection: The current project involves uploading an image to the model for analysis. However, with the development of IoT devices, it could be possible to develop a real-time detection system that could detect the ripeness of apples in real-time. This could be a significant boon for farmers and producers.
+
+3. Integration with sorting machines: Currently, sorting machines rely on visual inspection by human operators to detect rotten fruits. However, with the development of deep learning models like the one in this project, it could be possible to integrate the model with sorting machines. This would automate the process of detecting rotten apples and increase efficiency.
+
+3. Impact on food waste reduction: This project has the potential to reduce food waste by enabling early detection of rotten apples. With early detection, it will be possible to remove rotten apples before they contaminate the rest of the fruit in storage or transportation.
+
+Overall, the "Is Apple Fruit Rotten?" project has a lot of potential for future development and could have a significant impact on the food industry.
 
 
