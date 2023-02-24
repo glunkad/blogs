@@ -1,6 +1,8 @@
 ---
 title: Is Apple rotten or not?
 date: 2023-02-24 00:29:50 +0530
+categories: [Fruits, Apple]
+tags: [deep learning,fastai] 
 ---
 
 # Is Apple rotten or not? 
